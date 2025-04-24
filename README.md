@@ -19,9 +19,9 @@ AuthenticationForm/ __init__.py asgi.py settings.py urls.py wsgi.py Users/ __ini
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Phani-LP/Django_Authentication_Forms.git
    cd Django_Authentication_Forms
-
+   ```
 2. Create a virtual environment and activate it:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
